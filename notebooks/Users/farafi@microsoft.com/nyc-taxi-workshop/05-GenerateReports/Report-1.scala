@@ -28,6 +28,8 @@
 
 // MAGIC %md
 // MAGIC ### 2.  Revenue including tips by taxi type
+// MAGIC 
+// MAGIC Documentation text
 
 // COMMAND ----------
 
