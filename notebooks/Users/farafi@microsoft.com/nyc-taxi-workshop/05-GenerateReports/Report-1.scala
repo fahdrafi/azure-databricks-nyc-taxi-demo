@@ -46,7 +46,7 @@
 // COMMAND ----------
 
 // MAGIC %md
-// MAGIC ### 4.  Trip count trend between 2013 and 2016
+// MAGIC ### 4.  Trip count trend between 2016 and 2017
 
 // COMMAND ----------
 
